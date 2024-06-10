@@ -14,7 +14,7 @@ function SingleRestaurantListing({
 }) {
   const rightLabels = []
   const leftLabels = []
-  if (ad) rightLabels.push(ad)
+  if (ad) rightLabels.push('Ad')
   if (newRestaurant) rightLabels.push('New')
   if (preOrder) leftLabels.push('Pre-Order')
 
