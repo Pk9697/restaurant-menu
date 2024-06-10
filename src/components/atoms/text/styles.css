@@ -1,0 +1,24 @@
+.text {
+  font-size: 0.875rem;
+  font-family: sans-serif;
+  margin: 0;
+}
+
+.text.text-paragraph {
+  font-size: 0.875rem;
+  color: #808080;
+}
+
+.text.text-subheading {
+  font-size: 1.125rem;
+  font-weight: bold;
+}
+
+.text.text-heading {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.text.gutterBottom {
+  margin-bottom: 0.5em;
+}
